@@ -7,7 +7,7 @@
 ### I'm Qinnn
 
 - :thought_balloon: 2019年毕业于湖北中医药大学信息工程学院医学信息工程专业
-- :sparkling_heart: 写了一年多.NET后想转Java开发的菜鸟程序员
+- :sparkling_heart: 写了一年多.NET正在转Java开发的菜鸟程序员
 - ⭐ 正在学习 Redis，Docker，Linux,SpringBoot,SpringCloud中
 - ⚡ 目标：独立完成一个SpirngBoot+Vue项目,运用主流技术栈📊
 - 💬 Ask me about Java [1394323886@qq.com](mailto:1394323886@qq.com)
