@@ -4,7 +4,7 @@
 
 
 
-### I'm Qinnn
+### I'm Qinnn丶
 
 - :thought_balloon: 2019年毕业于湖北中医药大学信息工程学院医学信息工程专业
 - :sparkling_heart: 写了一年多.NET正在转Java开发的菜鸟程序员
