@@ -1,4 +1,4 @@
-## 虔诚的心 :smiley:
+## Devout heart :smiley:
 
 ---
 
